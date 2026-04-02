@@ -128,3 +128,13 @@ I'm currently on a deliberate career break after my role at SmartSoC Solutions e
 - Reflecting on the kind of product role and company I want to move into next
 
 I'm now actively looking for my next opportunity and am available to start with a short notice period.
+
+---
+
+## Reason for leaving role at SmartSoC Solutions (Previous Role)
+
+- The company wanted me to move into and focus almost exclusively on sales
+- I had discussions to try find a suitable common ground but not successfully
+- I did not want to take my career in that direction 
+- I wanted to continue to build my expertise and skills in my field of choice
+- I exit the company
