@@ -1,7 +1,7 @@
 # Resume Proxy Chatbot
 
 An AI-powered chatbot that acts as your professional proxy to recruiters.
-Built with FastAPI + Claude API. Deployable in minutes.
+Built with FastAPI + Gemini API. Deployable in minutes.
 
 ---
 
