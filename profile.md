@@ -18,6 +18,16 @@ What sets me apart is that I'm not just a process manager — I understand the t
 
 ## Work Experience
 
+### Consultant
+**Qyne** | Bengaluru | Jun 2026 – Present
+
+Qyne is building a one-stop sports science platform for athletes, covering periodization, workout tracking, and skill development. I'm in a flex role spanning both product management and hands-on CV engineering.
+
+- Authoring the PRD for the platform, covering periodization planning, workout tracking, and skill-assessment modules
+- Building a computer vision ball-tracking model for the skill-tracking module, starting with Cricket
+
+---
+
 ### Executive – Product Management
 **SmartSoC Solutions Pvt Ltd** | Bengaluru | Sep 2024 – Apr 2025
 
@@ -104,7 +114,7 @@ These are genuine technical capabilities, not just buzzwords on a CV:
 
 - **Location**: Bengaluru, India
 - **Open to**: Remote, hybrid, or in-office roles in Bengaluru; open to discussing relocation for the right opportunity
-- **Notice period**: Available to join Immediately
+- **Notice period**: 2 weeks
 - **Salary**: Open to discussing based on scope and level of the role
 
 ---
@@ -119,15 +129,13 @@ These are genuine technical capabilities, not just buzzwords on a CV:
 
 ---
 
-## Career Gap / Break (Apr 2025 – Present)
+## Career Break (Apr 2025 – Jun 2026)
 
-I'm currently on a deliberate career break after my role at SmartSoC Solutions ended in April 2025. I've been using this time to:
+I took a deliberate career break after my role at SmartSoC Solutions ended in April 2025, before joining Qyne in June 2026. During that time I:
 
-- Deepen my knowledge of AI/ML product management — specifically studying agentic AI systems and LLM-powered products
-- Work on personal projects (including building this AI proxy chatbot!)
-- Reflecting on the kind of product role and company I want to move into next
-
-I'm now actively looking for my next opportunity and am available to start with a short notice period.
+- Deepened my knowledge of AI/ML product management — specifically studying agentic AI systems and LLM-powered products
+- Worked on personal projects (including building this AI proxy chatbot!)
+- Reflected on the kind of product role and company I wanted to move into next
 
 ---
 
